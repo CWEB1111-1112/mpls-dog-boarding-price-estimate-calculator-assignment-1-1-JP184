@@ -1,3 +1,5 @@
+# Randy Chan!
+
 # MPLS Dog Boarding Price Estimate Calculator
 
 The MPLS Dogboarding academy wants to incorporate functionality that allows the end-user to generate estimates based on dog data that is entered into their site.  At the conclusion of entering data, the program will output the customer and dog information along with an estimate price of their dog's stay. 
