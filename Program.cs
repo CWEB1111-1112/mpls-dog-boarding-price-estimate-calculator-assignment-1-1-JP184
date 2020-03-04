@@ -49,7 +49,6 @@ namespace assignment_one
         public static string choiceSelect(string progChoice)
         {
             string choice = Console.ReadLine();
-            string choiceSub = choice;
             string addonS = "";
             
             if(progChoice == "a")
@@ -58,13 +57,12 @@ namespace assignment_one
                 bool check = int.TryParse(choice, out num);
                 if(check == true)
                 {
-                    Console.WriteLine(choiceSub);
-                    return choiceSub;
+                    return choice;
                 }
                 else
                 {
                     Console.WriteLine("Invalid input! Please put in numbers!");
-                    choiceSelect("a");
+                    return choiceSelect("a");
                 }
             }
             else if (progChoice == "b")
@@ -87,12 +85,8 @@ namespace assignment_one
                 else
                 {
                     Console.WriteLine("Invalid character, please select one of the above!");
-                    choiceSelect("b");
+                    return choiceSelect("b");
                 }
-            }
-            else
-            {
-                return null;
             }
             return null;
         }
