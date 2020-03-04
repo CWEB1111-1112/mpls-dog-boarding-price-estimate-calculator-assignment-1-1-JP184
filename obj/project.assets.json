@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charan\\OneDrive - Dunwoody College of Technology\\Web Tooling\\CWEB1130_Spring2020\\assignment 1\\assignment_one.csproj",
+      "projectUniqueName": "C:\\Users\\charan\\OneDrive - Dunwoody College of Technology\\Program Fundamentals II\\assignment 1\\assignment_one.csproj",
       "projectName": "assignment_one",
-      "projectPath": "C:\\Users\\charan\\OneDrive - Dunwoody College of Technology\\Web Tooling\\CWEB1130_Spring2020\\assignment 1\\assignment_one.csproj",
+      "projectPath": "C:\\Users\\charan\\OneDrive - Dunwoody College of Technology\\Program Fundamentals II\\assignment 1\\assignment_one.csproj",
       "packagesPath": "C:\\Users\\charan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charan\\OneDrive - Dunwoody College of Technology\\Web Tooling\\CWEB1130_Spring2020\\assignment 1\\obj\\",
+      "outputPath": "C:\\Users\\charan\\OneDrive - Dunwoody College of Technology\\Program Fundamentals II\\assignment 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
