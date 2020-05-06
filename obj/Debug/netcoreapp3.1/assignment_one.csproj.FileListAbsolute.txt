@@ -15,3 +15,10 @@ C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II
 C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\obj\Debug\netcoreapp3.1\assignment_one.AssemblyInfo.cs
 C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\obj\Debug\netcoreapp3.1\assignment_one.dll
 C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\obj\Debug\netcoreapp3.1\assignment_one.pdb
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\bin\Debug\netcoreapp3.1\assignment_one.exe
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\bin\Debug\netcoreapp3.1\assignment_one.deps.json
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\bin\Debug\netcoreapp3.1\assignment_one.runtimeconfig.json
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\bin\Debug\netcoreapp3.1\assignment_one.runtimeconfig.dev.json
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\bin\Debug\netcoreapp3.1\assignment_one.dll
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\bin\Debug\netcoreapp3.1\assignment_one.pdb
+C:\Users\randy\OneDrive - Dunwoody College of Technology\Program Fundamentals II\assignment 1\obj\Debug\netcoreapp3.1\assignment_one.genruntimeconfig.cache
